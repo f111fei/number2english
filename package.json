@@ -1,0 +1,11 @@
+{
+  "name": "number2english",
+  "version": "0.0.1",
+  "description": "Converts numbers to English words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xzper",
+  "license": "ISC"
+}
